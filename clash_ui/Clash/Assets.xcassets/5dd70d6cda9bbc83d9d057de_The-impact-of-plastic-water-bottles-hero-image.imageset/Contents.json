@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "5dd70d6cda9bbc83d9d057de_The-impact-of-plastic-water-bottles-hero-image.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
